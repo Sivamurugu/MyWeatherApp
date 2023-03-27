@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="click_to_refresh"><u>Click to Refresh</u></string>
+</resources>

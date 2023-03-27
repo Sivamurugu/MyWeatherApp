@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1057109563334",
+    "firebase_url": "https://mytestfcm-8c90c.firebaseio.com",
+    "project_id": "mytestfcm-8c90c",
+    "storage_bucket": "mytestfcm-8c90c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057109563334:android:6fbd3d0df0f22e6a",
+        "android_client_info": {
+          "package_name": "com.mobiocean.realmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057109563334-lc3jh3oh5t3lm7bapcoth0e1h1catedn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeqDLVyUMW1OSf7zHHXp3o6_A6L4ydQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057109563334-lc3jh3oh5t3lm7bapcoth0e1h1catedn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057109563334:android:9ee9f5a84aceb9f15544c7",
+        "android_client_info": {
+          "package_name": "com.sivamurugu.myweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057109563334-lc3jh3oh5t3lm7bapcoth0e1h1catedn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeqDLVyUMW1OSf7zHHXp3o6_A6L4ydQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057109563334-lc3jh3oh5t3lm7bapcoth0e1h1catedn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057109563334:android:b4796624d9070ddb",
+        "android_client_info": {
+          "package_name": "siva.myfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057109563334-lc3jh3oh5t3lm7bapcoth0e1h1catedn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeqDLVyUMW1OSf7zHHXp3o6_A6L4ydQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057109563334-lc3jh3oh5t3lm7bapcoth0e1h1catedn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
